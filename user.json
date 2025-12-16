@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "vall1",
+    "username": "test1",
+    "password": "test123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "e0ecf6d078e1c801",
+    "name": "vall2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+  {
+    "id": "8358cf6f983527a6",
+    "name": "djkcirebon",
+    "username": "djk1",
+    "password": "djk1",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+   {
+    "id": "8358cf6f983527a6",
+    "name": "djkkuningan",
+    "username": "123456",
+    "password": "123456",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+]
