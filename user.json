@@ -1,18 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "vall1",
-    "username": "test1",
-    "password": "test123",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "9403af53fe96625c",
-    "name": "rama",
-    "username": "rama",
-    "password": "123",
-    "expiresAt": "2026-01-16",
-    "allowOffline": true
-  },
-]
+
