@@ -5,7 +5,7 @@
     "username": "user",
     "password": "1234",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": true,
   },
   {
     "id": "002d8428cc081d74",
@@ -13,6 +13,6 @@
     "username": "admin",
     "password": "0231",
     "expiresAt": "2050-12-31",
-    "allowOffline": true
+    "allowOffline": false,
   },
 ]
